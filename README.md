@@ -6,4 +6,5 @@
 Python, Django, HTML
 #
 
-## Currently in progress
+## What I want to change
+# I plan on making changes to the colors, and other things to make it look more visually appealing
